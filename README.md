@@ -1,2 +1,2 @@
-Administrateur système et base des données
+Administrateur système et base des données,
 Développeur freelance
